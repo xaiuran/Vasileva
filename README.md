@@ -1,1 +1,1 @@
-# Ссылка на видео: https://yadi.sk/i/KYobE__MN2Kuhw
+# Лаборатоная работа: Написание Unit тестов: https://disk.yandex.ru/client/disk/unit%20тесты
